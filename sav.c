@@ -6,11 +6,11 @@ int a;
 scanf("%d",&a);
 if(a%7==0)
 {
-printf("yes");
+printf("prime");
 }
 else
 {
-printf("no");
+printf("not prime");
 }
 getch();
 }
